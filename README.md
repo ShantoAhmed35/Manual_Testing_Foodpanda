@@ -1,9 +1,8 @@
 # Manual_Testing_Foodpanda
-
-**#Project Overview**
+# Project Overview
 Foodpanda is an online food delivery platform that connects users with restaurants, providing a seamless and efficient ordering experience. This project involved manual testing to ensure the platform’s functionality, security, usability, and compatibility across different environments.
 
-#Scope of Testing Approach
+# Scope of Testing Approach
 ➢ Functional Testing: To ensure each feature
 ➢ UI Testing: To check the application's user interface for consistency, responsiveness, and
 ease of navigation.
