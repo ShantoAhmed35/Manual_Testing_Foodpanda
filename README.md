@@ -93,9 +93,9 @@ languages and currencies.
  * Mind Mapping Tool: XMind
 
 # Key Outcomes
- *Identified and reported critical bugs affecting functionality, security, and user experience.
- *Achieved comprehensive test coverage through detailed test cases and scenarios.
- *Validated platform compatibility across multiple browsers and devices.
+ * Identified and reported critical bugs affecting functionality, security, and user experience.
+ * Achieved comprehensive test coverage through detailed test cases and scenarios.
+ * Validated platform compatibility across multiple browsers and devices.
 
 
 # Conclusion
